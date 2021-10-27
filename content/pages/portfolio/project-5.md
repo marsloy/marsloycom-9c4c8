@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: /images/Captura de pantalla de 2021-10-27 17-03-39.png
 thumb_image_alt: A white gamepad on a green background
-image: images/5.jpg
+image: /images/Captura de pantalla de 2021-10-27 17-03-39.png
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
