@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Marcos Eloy Perez Ramos
+    title: 'Hola, Soy Marcos Eloy'
     content: >
       Creador de sitios web sin servidor ***JAMSTACK*** usando las funciones de
       ***NETLIFY***
