@@ -2,7 +2,7 @@
 title: Project Title 5
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: /images/Captura de pantalla de 2021-10-27 17-03-39.png
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
