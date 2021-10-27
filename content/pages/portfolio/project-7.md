@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: /images/Captura de pantalla de 2021-10-27 17-36-07.png
 thumb_image_alt: A black headphones on a yeallow background
-image: images/7.jpg
+image: /images/Captura de pantalla de 2021-10-27 17-36-07.png
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
