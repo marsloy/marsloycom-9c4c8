@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/Captura de pantalla de 2021-10-27 17-37-19.png
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: /images/Captura de pantalla de 2021-10-27 17-43-33.png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
