@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Mis Proyectos
-    subtitle: An optional subtitle of the section
+    subtitle: Sitios Creados por mi
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
