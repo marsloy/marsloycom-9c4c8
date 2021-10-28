@@ -1,8 +1,8 @@
 {
-    "title": "Marsloy",
+    "title": "Stackbit Exto Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "pink",
     "header": {
         "title": "MARSLOY",
         "has_nav": true,
