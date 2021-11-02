@@ -17,7 +17,7 @@ sections:
     layout_style: mosaic
     title: Mis Proyectos
     subtitle: Sitios Creados por mi...
-    projects_number: 4
+    projects_number: 100
     view_all_label: View All
     view_all_url: portfolio
 seo:
