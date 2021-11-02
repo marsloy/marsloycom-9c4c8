@@ -20,8 +20,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
-    type: section_grid
+  - type: section_grid
     col_number: two
     is_numbered: true
     grid_items:
